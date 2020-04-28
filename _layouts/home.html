@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<header>
+  <div>
+    <h1>{{page.title}}</h1>
+  </div>
+  <div class="grid-wrapper">
+    <img class="sm-icon" src="assets/images/html.png" alt="html icon" />
+    <img class="sm-icon" src="assets/images/css.png" alt="css icon" />
+    <img class="sm-icon" src="assets/images/js.png" alt="js icon" />
+    <img class="sm-icon" src="assets/images/node.png" alt="node icon" />
+    <img class="sm-icon" src="assets/images/jquery.png" alt="jquery icon" />
+    <img class="sm-icon" src="assets/images/vue.png" alt="vue icon" />
+    <img class="sm-icon" src="assets/images/mongodb.png" alt="mongodb icon" />
+    <img class="sm-icon" src="assets/images/ts.png" alt="ts icon" />
+  </div>
+</header>
+
+<h2 style="text-align: center;">Last Post</h2>
+{% for post in site.posts limit:1 %}
+<div class="last-post" style="background-image:url({{post.featured-image}});">
+  <div class="blog-post">
+    <a class="blog-title" href="{{ post.url }}">{{ post.title}}</a>
+    <p class="postDate">{{ post.date | date: "%b %-d, %Y" }}</p>
+    <p>{{post.description}}</p>
+    <a href="{{post.url}}" class="blog-link white-link-button">Read More</a>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="older-posts">
+  <h2>Older Posts</h2>
+  <div class="posts-container">
+    {% for post in site.posts offset:1 limit:3 %}
+    <div class="blog-post">
+      <a class="blog-title" href="{{ post.url }}">{{ post.title}}</a>
+      <p class="postDate">{{ post.date | date: "%b %-d, %Y" }}</p>
+      <p>{{post.description}}</p>
+      <a href="{{post.url}}" class="blog-link white-link-button">Read More</a>
+    </div>
+    {% endfor %}
+  </div>
+</div>

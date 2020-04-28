@@ -1,0 +1,31 @@
+I"6<h2 id="static-site-generator-generated">Static Site Generator-generated!</h2>
+
+<p>We are now up and running with static site generator Jekyll!</p>
+
+<p><img src="\assets\post-media\2020-04-27\jekyll.svg" alt="Jekyll logo" title="Jekyll logo" /></p>
+
+<p>As I mentioned in yesterday’s post, I can’t manage this is pure html. A few hours research today and we’re good (I think). This is what’s been done:</p>
+
+<ol>
+  <li>Decided to try out Jekyll as a static site generator (Google told me to!)</li>
+  <li>Research</li>
+  <li>Install Ruby (Jekyll is written in Ruby). I’m on Windows so I used the installer package: <a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  <li>With Ruby, proceeded to install Jekyll:</li>
+</ol>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; gem install jekyll
+</code></pre></div></div>
+
+<ol>
+  <li>Created a new Jekyll site:</li>
+</ol>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; jekyll new C:/my-path
+</code></pre></div></div>
+
+<ol>
+  <li>Followed the <a href="https://jekyllrb.com/tutorials/convert-site-to-jekyll/">official Jekyll guide on converting a site to Jekyll</a></li>
+</ol>
+
+<p>And it seems smooth! I like being able to re-use footer and html head without any hassle, just by using layouts.</p>
+:ET

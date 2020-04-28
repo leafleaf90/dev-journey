@@ -1,0 +1,56 @@
+I"N	<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##The Starting Point
+
+&lt;p&gt;
+  Learning to code from scratch. I've been at it for a few weeks. As it
+  helps to have an idea of the timeline we're dealing with here, I made some
+  detective-worthy research:
+&lt;/p&gt;
+&lt;img
+  src="blog/blog-img/documenting-the-journey/treehouse_invoice.png"
+  alt="Team Treehouse Invoice"
+/&gt;
+&lt;p&gt;
+  Today is Sunday, April 26. Just over a month has passed since I started
+  the Team Treehouse "Front End Development" course.
+&lt;/p&gt;
+&lt;h2&gt;The Opportunity Arises&lt;/h2&gt;
+&lt;p&gt;
+  Nothing bad bad that doesn't also bring some good with it, right? The
+  corona-crisis brought with it remote work. This still meant getting the
+  same amount of work done every day. But no commute combined with the
+  efficiency of working undisturbed did leave more time to dive into other
+  areas of interest.
+&lt;/p&gt;
+&lt;h2&gt;Question of the Day&lt;/h2&gt;
+&lt;p&gt;
+  &lt;b&gt;What platform/tool should I use for this blog?&lt;/b&gt;&lt;br /&gt;
+  Right now I'm writing this straight into my index.html in VS Code.
+&lt;/p&gt;
+&lt;img
+  src="blog/blog-img/documenting-the-journey/html-edit.png"
+  alt="VS Code editor"
+/&gt;
+&lt;p&gt;
+  I assume I should look into something else. Headless CMS such as
+  &lt;a href="https://ghost.org/"&gt;Ghost&lt;/a&gt;? Some static site generator magic
+  such as &lt;a href="https://www.11ty.dev/"&gt;11ty&lt;/a&gt;? I'll do some research.
+&lt;/p&gt;
+
+&lt;h2&gt;Read/Listen of the Day&lt;/h2&gt;
+
+&lt;div class="todays-read"&gt;
+  &lt;img src="/blog/blog-img/documenting-the-journey/toolsday.jpg" /&gt;
+  &lt;p&gt;
+    The podcast Toolsday with an episode called "New or Underrated DevTools"
+    (&lt;a href="https://spec.fm/podcasts/toolsday/308905"&gt;episode 102&lt;/a&gt;).
+    Some good, small tips and tricks in there. As a fresh developer I really
+    like hearing about more experienced developers software, ways to work or
+    overall approach to programming. One of the hosts interpreted the topic
+    as overall tools for development, while the other interpreted it
+    specifically as about the DevTools in the browser, which gave some extra
+    dimension. PS: did you know you can hide the element in focus in Chrome
+    DevTools by clicking the "h" key?
+  &lt;/p&gt;
+&lt;/div&gt;
+</code></pre></div></div>
+:ET
