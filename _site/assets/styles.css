@@ -116,10 +116,6 @@ h2,
   margin-right: 10px;
 }
 
-.todays-read {
-  display: flex;
-}
-
 .older-posts {
   background-color: black;
   color: white;
