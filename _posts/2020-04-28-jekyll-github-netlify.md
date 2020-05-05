@@ -1,15 +1,13 @@
 ---
-title: Documenting The Journey
+title: Hosting a Jekyll blog on Netlify via GitHub
 layout: post
-featured-image: /assets/post-media/2020-04-26/coffee-journal.jpg
-description: Getting started. Figured I might as well document my first stumbling steps.
+featured-image: /assets/post-media/2020-04-28/server.jpg
+description: Do the changes, push to GitHub. Auto-build and publish on Netlify, easy as that!
 ---
 
-## The Starting Point
+## Smooth hosting
 
-Learning to code from scratch. I've been at it for a few weeks. As it
-helps to have an idea of the timeline we're dealing with here, I made some
-detective-worthy research:
+So, after getting the blog onto Jekyll (see [last post]({% post_url 2020-04-27-generating-the-blog-with-jekyll %})), next step was to make the hosting situation figured out. Before I used Jekyll I used fast.io connected to
 
 ![Team Treehouse Invoice](/assets/post-media/2020-04-26/treehouse_invoice.png "Team Treehouse Invoice")
 
