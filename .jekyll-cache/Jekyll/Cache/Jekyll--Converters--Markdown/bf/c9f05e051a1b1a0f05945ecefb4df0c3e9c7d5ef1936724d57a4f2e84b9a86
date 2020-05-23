@@ -1,4 +1,8 @@
-I"_<h2 id="smooth-hosting">Smooth hosting</h2>
+I"<h2 id="smooth-hosting">Smooth hosting</h2>
 
 <p>So, after getting the blog onto Jekyll (see <a href="/2020/04/27/generating-the-blog-with-jekyll.html">last post</a>), next step was to get the hosting situation figured out. Before I used Jekyll I pushed changes into a Dropbox folder connected to fast.io, which served the website. I’ve now changed it up, since Jekyll requires a build process. Pushing to GitHub repository and Netlify takes it from there. You can follow step-by-step-instructions <a href="https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netlify/">here</a>.</p>
+
+<p>It is incredibly smooth and simple this way. Just push to GitHub whenever there is a new post or change to publish, and that’s it.</p>
+
+<p>Build time is a few minutes.</p>
 :ET
