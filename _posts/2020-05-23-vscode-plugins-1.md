@@ -1,5 +1,5 @@
 ---
-title: "Must-have VSCode Plugins - Part 1: Visuals"
+title: "VSCode Plugins - Part 1: Visuals"
 layout: post
 featured-image: /assets/post-media/2020-05-23/vscode.jpg
 description: Plugins that enhances VSCode
