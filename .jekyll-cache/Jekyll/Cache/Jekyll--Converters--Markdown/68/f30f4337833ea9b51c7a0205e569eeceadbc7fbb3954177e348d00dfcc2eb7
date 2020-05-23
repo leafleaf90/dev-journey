@@ -1,32 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The Slow Journey to Full-stack</title>
-    <link rel="stylesheet" href=/assets/styles.css />
-    <link rel="stylesheet" href=/assets/normalize.css />
-  </head>
-  <body>
-    <div class="post">
-  <div
-    class="featured-img-container"
-    style="
-      background-image: url('/assets/post-media/2020-04-26/coffee-journal.jpg');
-    "
-  >
-    <div class="post-title">
-      <h1>Documenting The Journey</h1>
-      <p>Apr 26, 2020</p>
-    </div>
-  </div>
+I"�<h2 id="smooth-hosting">Smooth hosting</h2>
 
-  <div class="content">
-    <h2 id="the-starting-point">The Starting Point</h2>
-
-<p>Learning to code from scratch. I’ve been at it for a few weeks. As it
-helps to have an idea of the timeline we’re dealing with here, I made some
-detective-worthy research:</p>
+<p>So, after getting the blog onto Jekyll (see <a href="/2020/04/27/generating-the-blog-with-jekyll.html">last post</a>), next step was to make the hosting situation figured out. Before I used Jekyll I used fast.io connected to</p>
 
 <p><img src="/assets/post-media/2020-04-26/treehouse_invoice.png" alt="Team Treehouse Invoice" title="Team Treehouse Invoice" /></p>
 
@@ -66,12 +40,4 @@ specifically as about the DevTools in the browser, which gave some extra
 dimension. PS: did you know you can hide the element in focus in Chrome
 DevTools by clicking the "h" key?</p>
 </div>
-
-  </div>
-</div>
-
-    <footer>
-      &copy;Journey-Dev 2020
-    </footer>
-  </body>
-</html>
+:ET

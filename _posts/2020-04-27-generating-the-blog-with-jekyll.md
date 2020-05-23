@@ -11,7 +11,7 @@ We are now up and running with static site generator Jekyll!
 
 ![Jekyll logo](\assets\post-media\2020-04-27\jekyll.svg "Jekyll logo")
 
-As I mentioned in [yesterday's post]({% post_url 2020-04-26-documenting-the-journey copy %})), I wanted to start experimenting with some static website tools. A few hours research today and we're good (I think). This is what's been done:
+As I mentioned in [yesterday's post]({% post_url 2020-04-26-moving-beyond-wordpress %})), I wanted to start experimenting with some static website tools. A few hours research today and we're good (I think). This is what's been done:
 
 - Decided to try out Jekyll as a static site generator (it has been round for long and the documentation is good)
 - Research

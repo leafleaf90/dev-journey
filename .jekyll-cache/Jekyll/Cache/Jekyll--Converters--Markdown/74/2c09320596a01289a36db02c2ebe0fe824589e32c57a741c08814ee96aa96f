@@ -1,37 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The Slow Journey to Full-stack</title>
-    <link rel="stylesheet" href=/assets/styles.css />
-    <link rel="stylesheet" href=/assets/normalize.css />
-  </head>
-  <body>
-    <div class="nav-bar">
-      <a href="/">Home</a>
-    </div>
-    <div class="post">
-  <div
-    class="featured-img-container"
-    style="
-      background-image: url('/assets/post-media/2020-04-27/kickin-back.jpg');
-    "
-  >
-    <div class="post-title">
-      <h1>Generating the blog with Jekyll</h1>
-      <p>Apr 27, 2020</p>
-    </div>
-  </div>
-
-  <div class="content">
-    <h2 id="static-site-generator-generated">Static Site Generator-generated!</h2>
+I"�<h2 id="static-site-generator-generated">Static Site Generator-generated!</h2>
 
 <p>We are now up and running with static site generator Jekyll!</p>
 
 <p><img src="\assets\post-media\2020-04-27\jekyll.svg" alt="Jekyll logo" title="Jekyll logo" /></p>
 
-<p>As I mentioned in <a href="/2020/04/26/moving-beyond-wordpress.html">yesterday’s post</a>), I wanted to start experimenting with some static website tools. A few hours research today and we’re good (I think). This is what’s been done:</p>
+<p>As I mentioned in <a href="/2020/04/26/why-its-time-to-move-beyond-wordpress.html">yesterday’s post</a>), I wanted to start experimenting with some static website tools. A few hours research today and we’re good (I think). This is what’s been done:</p>
 
 <ul>
   <li>Decided to try out Jekyll as a static site generator (it has been round for long and the documentation is good)</li>
@@ -55,12 +28,4 @@
 </ul>
 
 <p>And it seems smooth! I like being able to re-use footer and html head without any hassle, just by using layouts.</p>
-
-  </div>
-</div>
-
-    <footer>
-      &copy;Journey-Dev 2020
-    </footer>
-  </body>
-</html>
+:ET

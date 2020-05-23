@@ -209,6 +209,24 @@ footer {
   opacity: 0.6;
 }
 
+.nav-bar {
+  background-color: black;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: white;
+  margin-left: 3rem;
+  font-size: 2rem;
+}
+
+img + em {
+  display: block;
+}
+
 @media (min-width: 768px) {
   .grid-wrapper {
     grid-template-rows: repeat(2, minmax(100px, auto));
