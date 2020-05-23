@@ -7,7 +7,7 @@ description: In the search for something lighter.
 
 ## The Starting Point
 
-I have lots of websites running WordPress installations with some theme and sitebuilder, usually Divi with Slider Revolution for some added flair. Divi is good for clients that does not want to deal with markdown and has to update content several times per month or even daily. But performance-wise the sites gets bogged down with all the extra fluff and slows down the user experience, both for visitors but also in the admin area. Also, for many clients it doesn't make sense to run a website with a database. A static website, consisting only of HTML, CSS and some JavaScript is often enough and brings huge performance advantages.
+I have lots of websites running WordPress installations with some theme/sitebuilder, usually Divi with Slider Revolution for some added flair. Divi is good for clients that does not want to deal with markdown and has to update content several times per month or even daily. But performance-wise the sites gets bogged down with all the extra fluff and slows down the user experience, both for visitors but also in the admin area. Also, for many clients it doesn't make sense to run a website with a database. A static website, consisting only of HTML, CSS and some JavaScript is often enough and brings huge performance advantages.
 
 To brush up on long forgotten JS skills, along with rusty HTML and CSS I dove into:
 
