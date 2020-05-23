@@ -6,7 +6,8 @@
     <title>The Slow Journey to Full-stack</title>
     <link rel="stylesheet" href={{ "assets/styles.css" | relative_url }} />
     <link rel="stylesheet" href={{ "assets/normalize.css" | relative_url }} />
-    {% include analytics.html %}
+    {% if jekyll.environment == 'production' and site.google_analytics %} {%
+    include analytics.html %} {% endif %}
   </head>
   <body>
     <div class="nav-bar">
