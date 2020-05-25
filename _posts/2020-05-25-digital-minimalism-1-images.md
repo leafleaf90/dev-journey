@@ -19,21 +19,21 @@ iCloud, Dropbox, Google Photos and a host of related services all want you to us
 
 ### Step 1: Stop the craziness
 
-De-activate all auto-backup features from these services (except the you choose one in step 2).
+De-activate all auto-backup features from these services (except the one you choose one in next step).
 
 ### Step 2: Choose one service
 
-Choose the cloud service you want to use for your temporary backups. This should only work as a safeguard in case your device is stolen or breaks in between your regular backups. I use Google Photos for this as it offers unlimited space for images and makes albums easy to share to friends. You will also want to back up elsewhere for your originals in full resolution, but that comes later.
+Choose the cloud service you want to use for your temporary backups and easy sharing of favorite albums. This should only work as a safeguard in case your device is stolen or breaks in between your regular backups, and as a way to share with friends and family. I use Google Photos for this as it offers unlimited space for images (albeit with limited quality). You will also want to back up elsewhere for your originals in full resolution, but that comes later.
 
 ### Step 3: Free up the others
 
-Check on your other platforms if you have images there that you don't have on hard drives. Download these before deleting them. You could keep them there if it doesn't bother you. To me, this is the equivalent of sweeping the dust under the rug. Out of sight is not always out of mind, in my experience. Deleting it also free these services up for you to use with other applications. For example, it can free up your Dropbox to host websites on via [fast.io](https://www.fast.io){:target="\_blank"}, as described briefly [here]({% post_url 2020-04-28-jekyll-github-netlify %}). Cleaning it out also frees up disk space in a server hall somewhere. The environmental impact of keeping these servers running to store copies of images you'll never need should not be dismissed! You can read more about the "Invisible impact of the Internet" [here](https://gkprojects.org/2020/04/22/freeuptheplanet-campaign-earthday2020/){:target="\_blank"}.
+Check on your other platforms if you have images there that you don't have on hard drives. Download these before deleting them. You could keep them there if it doesn't bother you. To me, this is the equivalent of sweeping the dust under the rug. Out of sight is not always out of mind, in my experience. Deleting it does also free these services up for you to use with other applications. For example, it can free up your Dropbox to host websites on via [fast.io](https://www.fast.io){:target="\_blank"}, as described briefly [here]({% post_url 2020-04-28-jekyll-github-netlify %}). Cleaning it out also frees up disk space in a server hall somewhere. The environmental impact of keeping these servers running to store copies of images you'll never need should not be dismissed! You can read more about the "Invisible impact of the Internet" [here](https://gkprojects.org/2020/04/22/freeuptheplanet-campaign-earthday2020/){:target="\_blank"}.
 
 ### Step 4: Prepare your chosen service
 
-Remove all auto-synced content also from your chosen cloud service. This is given that you have this on your phone or hard drive already. If you don't have it elsewhere and want to keep it, download to disk and then delete from cloud. The purpose of this is to start "clean", as it is otherwise impossible to keep track of what is already backed up and what amongst it you do not wnat to keep. You might for example already have deleted it from your device, but it still lingers in the cloud. You probably have thousands of images in your Google Photos if you've had auto-backup enabled for a while.
+Remove all auto-synced content also from your chosen cloud service. This is given that you have this on your phone or hard drive already. If you don't have it elsewhere and want to keep it, download to disk and then delete from cloud. The purpose of this is to start "clean", as it is otherwise impossible to keep track of what is already backed up and what you do not want to keep. You might for example already have deleted it from your device, but it still lingers in the cloud.
 
-There is no "delete all" feature, so you just have to dig in and delete manually. To make it a bit faster:
+You probably have thousands of images in your Google Photos if you've had auto-backup enabled for a while. There is no "delete all" feature, so you just have to dig in and delete manually. To make it a bit faster:
 
 -Zoom out to 25% in the browser
 
@@ -55,7 +55,7 @@ If you have many images in the same day, you can also just mark the day and dele
 
 ## Make a conscious decision of what to keep
 
-This is the most time consuming part (Google Photos might beg to differ in step 4 above).
+This is the most time-consuming part (Google Photos might beg to differ in step 4 above).
 
 ### Step 1: Bring it all!
 
@@ -79,7 +79,7 @@ This should make you well-covered in case of any kind of data-loss. Let's go thr
 
 ### Step 1 - External drive
 
-For the external drive, get something reliable and easy to carry with you if you plan to travel with it. I got this [Western Digital](https://amzn.to/3getV41){:target="\_blank"} (My Passport Ultra, 2TB) as I like it's silver finish and it feels sturdy and reliable, but go with something that fits your needs in terms of size both physically and on disk. Depending on how much space you have on your main hard drive and how much you need instant access to, decide whether to mirror your files from the computer to the external drive or store them only on the hard drive. If you want a mirror solution you can use Time Machine for Mac OS X or the built-in mirrored volume functionality in Windows 10. I use the external drive as my main storage, and I keep what I'm currently working at on the computer, I find this cleaner for me and still feel safe knowing I have all images on the external drive and 2 cloud locations.
+For the external drive, get something reliable and easy to carry with you if you plan to travel with it. I got this [Western Digital](https://amzn.to/3getV41){:target="\_blank"} (My Passport Ultra, 2TB) as I like it's silver finish and it feels sturdy and reliable. Go with something that fits your needs in terms of size both physically and on disk. Depending on how much space you have on your main hard drive and how much you need instant access to, decide whether to mirror your files from the computer to the external drive or store them only on the hard drive. If you want a mirror solution you can use Time Machine for Mac OS X or the built-in mirrored volume functionality in Windows 10. I use the external drive as my main storage, and I keep what I'm currently working at on the computer, I find this cleaner for me and still feel safe knowing I have all images on the external drive and 2 cloud locations.
 
 ### Step 2 - Cloud backup
 
@@ -92,8 +92,6 @@ To sync to Google Photos, I don't rely on the automatic Google Backup and Sync, 
 -Identify folders that you want to share with friends or always want to have easy access to (without having to reach for the Backblaze copy or external drive). Create the responding album in Google Photos.
 
 -Manually drag the images from the folder into the new album to upload. Sometimes I curate further at this step, as you might want to keep 48 images of your aunt opening her Christmas present in the backup, but only share the very best of them with the extended family.
-
--Share with friends and family to your heart's content!
 
 ## Make use of your images
 
@@ -108,7 +106,7 @@ To minimze time spent on organizing your photos each time you backup, I recommen
 1. Delete bad images as soon as possible. After a day of taking a lot of photos, spend 5 minutes going through the images you took and keep only the very best.
 2. Remember to do this also for screenshots and images sent to you in applications such as WhatsApp.
 3. Make it a monthly routine to repeat step 1 and 2 from "Make a conscious decision of what to keep" above with all your new images. In other words, gather all, organize into folder structure while curating (which should be fast since you have already been mindful of what images you keep), and then add the folders to your main location that is backed up by your cloud backup software.
-4. Delete all images that have automatically been backed-up to Google Photos at this point, and just create albums for what you want in there. As these iamges are already safely backed up elsewhere it will get messy keeping the automatically backed up images. I keep the auto-backup from my devices just in the event of a lost device before I've done step 1-2 for that month.
+4. Delete all images that have automatically been backed-up to Google Photos at this point, and just create albums for what you want in there. As these images are already safely backed up elsewhere it will get messy keeping the automatically backed up images. I keep the auto-backup from my devices just in the event of a lost device before I've done step 1-2 for that month.
 
 ## Optional - Encryption
 
