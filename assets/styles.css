@@ -243,6 +243,10 @@ footer p {
   justify-content: center;
 }
 
+.contact-form input {
+  max-width: 60vw;
+}
+
 .form-wrapper {
   display: flex;
   justify-content: center;

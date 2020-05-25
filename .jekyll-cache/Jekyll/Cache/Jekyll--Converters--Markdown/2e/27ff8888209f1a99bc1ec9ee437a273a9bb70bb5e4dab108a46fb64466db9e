@@ -1,35 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The Slow Journey to Full-stack</title>
-    <link rel="stylesheet" href=/assets/styles.css />
-    <link rel="stylesheet" href=/assets/normalize.css />
-    
-  </head>
-  <body>
-    <div class="nav-bar">
-      <a href="/">Home</a>
-      <a href="/contact/">Contact</a>
-    </div>
-    <div class="post">
-  <div
-    class="featured-img-container"
-    style="
-      background-image: url('/assets/post-media/2020-05-25/minimal.jpg');
-    "
-  >
-    <div class="post-title">
-      <h1>Digital minimalism - Part 1: Images</h1>
-      <p>May 25, 2020</p>
-    </div>
-  </div>
+I"+1<h2 id="images-everywhere">Images everywhere…</h2>
 
-  <div class="content">
-    <h2 id="images-everywhere">Images everywhere…</h2>
-
-<p><em>“The best camera is the one that is with you.”</em></p>
+<blockquote>
+  <blockquote>
+    <p>The best camera is the one that is with you.</p>
+  </blockquote>
+</blockquote>
 
 <p>It doesn’t matter if you have a $4k system camera if it’s at home when that special moment pops up. Enter mobile phones with cameras ranging from decent to great. A downside of this revolution is how easy it is to stack up huge image libraries, impossible to keep organized. Not to mention never being able to enjoy looking back at the memories, since the gold is burried amongst blurry shots of what you had for dinner 2 years ago.</p>
 
@@ -69,12 +44,6 @@
 
 <p>-Repeat until you see:</p>
 
-<p><img src="/assets/post-media/2020-05-25/google-photos-empty.png" alt="Google Photos empty" title="Google Photos empty" /></p>
-
-<p>If you have many images in the same day, you can also just mark the day and delete those:</p>
-
-<p><img src="/assets/post-media/2020-05-25/mark-google-photos.jpg" alt="Google Photos mark day" title="Google Photos mark day" /></p>
-
 <h2 id="make-a-conscious-decision-of-what-to-keep">Make a conscious decision of what to keep</h2>
 
 <p>This is the most time consuming part (Google Photos might beg to differ in step 4 above).</p>
@@ -109,7 +78,7 @@
 
 <h3 id="step-3---additional-cloud-service">Step 3 - Additional cloud service</h3>
 
-<p>To sync to Google Photos, I don’t rely on the automatic Google Backup and Sync, as it doesn’t respect the folder structure set up, but organizes by dates in the meta data of the images. Ideally it would organize into albums by folders. I rather use it like this:</p>
+<p>To sync to Google Photos, I don’t rely on the automatic Google Backup and Sync, as it doesn’t respect the folder structure set up. Ideally it would organize into albums by folders. I rather use it like this:</p>
 
 <p>-Identify folders that you want to share with friends or always want to have easy access to (without having to reach for the Backblaze copy or external drive). Create the responding album in Google Photos.</p>
 
@@ -143,12 +112,4 @@
 <p>Since you now have a clear overview of pictures, and surely have discovered many forgotten memories, why not put some of those on display? A digital photo frame such as <a href="https://amzn.to/3c3bSdw" target="\_blank">Nixplay 2k</a> does the job, as it can conncet to Google Photos. Create one curated album that consists of your absolute favorites from all the other albums.</p>
 
 <p>Next I’ll discuss how I manage my passwords for less mess and confusion and more efficiency.</p>
-
-  </div>
-</div>
-
-    <footer>
-      <p>&copy;Journey-Dev 2020</p>
-    </footer>
-  </body>
-</html>
+:ET

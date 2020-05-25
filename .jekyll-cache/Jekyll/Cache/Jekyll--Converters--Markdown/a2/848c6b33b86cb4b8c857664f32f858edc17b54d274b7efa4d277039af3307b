@@ -1,37 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The Slow Journey to Full-stack</title>
-    <link rel="stylesheet" href=/assets/styles.css />
-    <link rel="stylesheet" href=/assets/normalize.css />
-    
-  </head>
-  <body>
-    <div class="nav-bar">
-      <a href="/">Home</a>
-      <a href="/contact/">Contact</a>
-    </div>
-    <div class="post">
-  <div
-    class="featured-img-container"
-    style="
-      background-image: url('/assets/post-media/2020-05-25/minimal.jpg');
-    "
-  >
-    <div class="post-title">
-      <h1>Digital minimalism - Part 1: Images</h1>
-      <p>May 25, 2020</p>
-    </div>
-  </div>
+I"�0<h2 id="images-everywhere">Images everywhere…</h2>
 
-  <div class="content">
-    <h2 id="images-everywhere">Images everywhere…</h2>
-
-<p><em>“The best camera is the one that is with you.”</em></p>
-
-<p>It doesn’t matter if you have a $4k system camera if it’s at home when that special moment pops up. Enter mobile phones with cameras ranging from decent to great. A downside of this revolution is how easy it is to stack up huge image libraries, impossible to keep organized. Not to mention never being able to enjoy looking back at the memories, since the gold is burried amongst blurry shots of what you had for dinner 2 years ago.</p>
+<p>They say the best camera is the one that is with you. It doesn’t matter if you have a $4k system camera if it’s at home when that special moment pops up. Enter mobile phones with cameras ranging from decent to great. The downside of this revolution is how easy it is to stack up huge image libraries, impossible to keep organized. Not to mention never being able to enjoy looking back at the memories, since the gold is burried amongst blurry shots of what you had for dinner 2 years ago.</p>
 
 <p>Going a bit Marie Kondo on your image collection will make the pictures you do keep more valuable. I’d even go as far as saying it’s a powerful experience, reconnecting with memories and giving your favorite ones the treatment they deserve. There are as many ways to do this as there are people out there, so this is just an overview of how I choose to do it. This is not suitable for a professional photographer, who would need something more sophisticated, but rather targeted at non-professionals taking lots of pictures with their cellphones or digital cameras.</p>
 
@@ -69,12 +38,6 @@
 
 <p>-Repeat until you see:</p>
 
-<p><img src="/assets/post-media/2020-05-25/google-photos-empty.png" alt="Google Photos empty" title="Google Photos empty" /></p>
-
-<p>If you have many images in the same day, you can also just mark the day and delete those:</p>
-
-<p><img src="/assets/post-media/2020-05-25/mark-google-photos.jpg" alt="Google Photos mark day" title="Google Photos mark day" /></p>
-
 <h2 id="make-a-conscious-decision-of-what-to-keep">Make a conscious decision of what to keep</h2>
 
 <p>This is the most time consuming part (Google Photos might beg to differ in step 4 above).</p>
@@ -93,7 +56,7 @@
 
 <p>-External drive. This can also be your main storage, if you don’t also want to keep the files on your laptop.</p>
 
-<p>-Cloud service for high-resolution originals (mirroring of what’s on the external drive)</p>
+<p>-Cloud service for high-resolution originals (mirroring of what’s on the external hard drive)</p>
 
 <p>-Google Photos (for easy sharing and additional backup that is free for unlimited space, even though resolution is limited)</p>
 
@@ -101,21 +64,18 @@
 
 <h3 id="step-1---external-drive">Step 1 - External drive</h3>
 
-<p>For the external drive, get something reliable and easy to carry with you if you plan to travel with it. I got this <a href="https://amzn.to/3getV41" target="\_blank">Western Digital</a> (My Passport Ultra, 2TB) as I like it’s silver finish and it feels sturdy and reliable, but go with something that fits your needs in terms of size both physically and on disk. Depending on how much space you have on your main hard drive and how much you need instant access to, decide whether to mirror your files from the computer to the external drive or store them only on the hard drive. If you want a mirror solution you can use Time Machine for Mac OS X or the built-in mirrored volume functionality in Windows 10. I use the external drive as my main storage, and I keep what I’m currently working at on the computer, I find this cleaner for me and still feel safe knowing I have all images on the external drive and 2 cloud locations.</p>
+<p>For the external drive, get something reliable and easy to carry with you if you plan to travel with it. I got this <a href="https://amzn.to/3getV41" target="\_blank">Western Digital</a> (My Passport Ultra, 2TB) as I like it’s silver finish and it feels sturdy and reliable, but go with something that fits your needs in terms of size both physically and on disk. Depending on how much space you have on your main hard drive and how much you need instant access to, decide whether to mirror your files from the computer to the external hard drive or store them only on the hard drive. If you want a mirror solution you can use Time Machine for Mac OS X or the built-in mirrored volume functionality in Windows 10. I use the external hard drive as my main storage, and I keep what I’m currently working at on the computer, I find this cleaner for me and still feel safe knowing I have all images on the external drive and 2 cloud locations.</p>
 
 <h3 id="step-2---cloud-backup">Step 2 - Cloud backup</h3>
 
-<p>For cloud backup I use <a href="https://www.backblaze.com/cloud-backup.html#af9v47" target="\_blank">Backblaze</a>. $60 for unlimited storage and peace of mind is pretty great. They offer a 15-day free trial for you to try it out first. It’s seriously a powerhouse. It runs a complete backup of your hard drive and any external drives and will then keep these up-to-date with incremental backups. It let’s you download the files from the cloud storage, as well as older versions of the files. If needed, they can even send you a hard drive with your files. After install, let Backblaze run a backup of your main hard drive. Let it cover your external drive as well if you keep any additional files there that you don’t keep on your main hard drive.</p>
+<p>For cloud backup I use <a href="https://www.backblaze.com/cloud-backup.html#af9v47" target="\_blank">Backblaze</a>. $60 for unlimited storage and peace of mind is pretty great. They offer a 15-day free trial for you to try it out first. It’s seriously a powerhouse. It runs a complete backup of your hard drive and any external drives and will then keep these up-to-date with incremental backups. It let’s you download the files from the cloud storage, as well as older versions of the files. If needed, they can even send you a hard drive with your files. After install, let Backblaze run a backup of your main hard drive and the external drive as well if you keep any additional files there that you can’t fit on your main hard drive.</p>
 
 <h3 id="step-3---additional-cloud-service">Step 3 - Additional cloud service</h3>
 
-<p>To sync to Google Photos, I don’t rely on the automatic Google Backup and Sync, as it doesn’t respect the folder structure set up, but organizes by dates in the meta data of the images. Ideally it would organize into albums by folders. I rather use it like this:</p>
-
-<p>-Identify folders that you want to share with friends or always want to have easy access to (without having to reach for the Backblaze copy or external drive). Create the responding album in Google Photos.</p>
-
-<p>-Manually drag the images from the folder into the new album to upload. Sometimes I curate further at this step, as you might want to keep 48 images of your aunt opening her Christmas present in the backup, but only share the very best of them with the extended family.</p>
-
-<p>-Share with friends and family to your heart’s content!</p>
+<p>To sync to Google Photos, I don’t rely on the automatic Google Backup and Sync, as it doesn not respect the folder structure set up. Ideally it would organize into albums by folders. I rather use it like this:
+-Identify folders that you want to share with friends or always want to have easy access to (not have to reach for the Backblaze copy or external hard drive). Create the responding album in Google Photos.
+-Manually drag the images from the folder into it to upload. Sometimes I curate further at this step, as you might want to keep 48 images of your aunt opening her Christmas present in the backup, but only share the very best of them with the extended family.
+-Share with friends and family to your heart’s content!</p>
 
 <h2 id="make-use-of-your-images">Make use of your images</h2>
 
@@ -125,30 +85,22 @@
 
 <p>Another benefit of this spring cleaning, except it gives you a curated and organized photo library that is safely backed up, is that it makes you more mindful of how many images you snap and also makes you go through and clean them out with more regularity.</p>
 
-<p>To minimze time spent on organizing your photos each time you backup, I recommend implementing these practices:</p>
+<p>Since you now won’t auto-backup from your devices, I recommend implementing these practices:</p>
 
 <ol>
-  <li>Delete bad images as soon as possible. After a day of taking a lot of photos, spend 5 minutes going through the images you took and keep only the very best.</li>
-  <li>Remember to do this also for screenshots and images sent to you in applications such as WhatsApp.</li>
+  <li>Delete bad images as soon as possible. After a day in a new city, for example, take 5 minutes to go through the images you took and keep only the very best.</li>
+  <li>Remember to do this also for screenshots and images sent to you in applications such as Whatsapp.</li>
   <li>Make it a monthly routine to repeat step 1 and 2 from “Make a conscious decision of what to keep” above with all your new images. In other words, gather all, organize into folder structure while curating (which should be fast since you have already been mindful of what images you keep), and then add the folders to your main location that is backed up by your cloud backup software.</li>
-  <li>Delete all images that have automatically been backed-up to Google Photos at this point, and just create albums for what you want in there. As these iamges are already safely backed up elsewhere it will get messy keeping the automatically backed up images. I keep the auto-backup from my devices just in the event of a lost device before I’ve done step 1-2 for that month.</li>
+  <li>Delete all images that have automatically been backed-up to Google at this point, and just create albums for what you want in there. As these iamges are already safely backed up elsewhere it will just get messy keeping the automatically backed up images. I keep the auto-backup from my devices just in the event of a lost device before I’ve done step 1-2 for that month.</li>
 </ol>
 
 <h2 id="optional---encryption">Optional - Encryption</h2>
 
-<p>Once you have all this set up it would be a good time to also encrypt your hard drives for security. With Windows you can use the built-in encryption with BitLocker if you have the professional edition. Mac OS X has its built-in FileVault encryption. I use <a href="https://www.veracrypt.fr/en/Home.html" target="\_blank">VeraCrypt</a>. It is a good, open-source alternative. Choosing this over the built-in options enables you to move between operative systems as you can run VeraCrypt on Windows, Linux and Mac OS X.</p>
+<p>Once you have all this set up it would be a good time to also encrypt your hard drives for security. With Windows you can use the built-in encryption with BitLocker if you have the professional edition. Mac OS X has its built-in FileVault encryption. I use (https://www.veracrypt.fr/en/Home.html)[VeraCrypt]{:target=”_blank”}. It is a good, open-source alternative. Choosing this over the built-in options makes you more free to move to other operative systems as you can run VeraCrypt on Windows, Linux and Mac OS X.</p>
 
 <h2 id="optional-2---digital-frame">Optional 2 - Digital Frame</h2>
 
-<p>Since you now have a clear overview of pictures, and surely have discovered many forgotten memories, why not put some of those on display? A digital photo frame such as <a href="https://amzn.to/3c3bSdw" target="\_blank">Nixplay 2k</a> does the job, as it can conncet to Google Photos. Create one curated album that consists of your absolute favorites from all the other albums.</p>
+<p>Since you now have a clear overview of pictures, and surely have discovered many forgotten memories, why not put some of those on display? A digital photo frame such as <a href="https://amzn.to/3c3bSdw" target="\_blank">Nixplay 2k</a> does the job, as it can conncet to Google Photos. Create one album that consists of your absolute favorites from the other albums.</p>
 
 <p>Next I’ll discuss how I manage my passwords for less mess and confusion and more efficiency.</p>
-
-  </div>
-</div>
-
-    <footer>
-      <p>&copy;Journey-Dev 2020</p>
-    </footer>
-  </body>
-</html>
+:ET
