@@ -1,0 +1,28 @@
+On how to use captions Jekyll
+https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll
+
+
+
+Analytics
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=UA-167474518-1"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-167474518-1");
+</script>
+
+How to add
+Add tag in config.yml
+Set up anakytics in includes, reference the value from config
+uinclude in default layout, with if to check if production
+
+GitHub pages auto to prod
+In netlify

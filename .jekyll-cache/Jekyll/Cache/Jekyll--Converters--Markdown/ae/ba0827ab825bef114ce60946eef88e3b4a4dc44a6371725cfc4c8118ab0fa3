@@ -1,0 +1,36 @@
+I"�<h2 id="visual-cues">Visual cues</h2>
+
+<p>There are a few extensions that, with small visual cues, makes coding just a little bit easier. The ones I use right now:</p>
+
+<p><strong>Bracket Pair Colorizer 2</strong></p>
+
+<p>This can help you understand what is enclosed by what. It simplifies debugging as well as makes you more aware of potential mis-types as they happen. The extension will color the opening and closing brackets that belong together in the same color:</p>
+
+<p><img src="\assets\post-media\2020-05-23\colorizer.png" alt="Colorizer extension" title="Bracket Pair Colorizer 2 in action" />
+<em>Bracket Pair Colorizer 2 in action</em></p>
+
+<p><strong>Color Highlight</strong></p>
+
+<p>See what color you’re setting at a glance.</p>
+
+<p><img src="\assets\post-media\2020-05-23\color-higlight.png" alt="Color Highlight" title="Color Highlight Extension" />
+<em>A subtle grey, on display</em></p>
+
+<p><strong>Highlight Matching Tag</strong></p>
+
+<p>Similar help as what Bracket Pair Colorizer gives, but I like how the corresponding opening/closing tag lights up for a few milliseconds when the mathcing tag is clicked.</p>
+
+<p><img src="\assets\post-media\2020-05-23\higlight-matching-tag.png" alt="Highlight Matching Tag" title="Highlight Matching Tag Extension" />
+<em>Match made in heaven</em></p>
+
+<p><strong>TODO Higlight</strong></p>
+
+<p>If there is a part of the code you know you’ll need to re-visit later, this is great way to set a reminder.</p>
+
+<p><img src="\assets\post-media\2020-05-23\todo.png" alt="TODO Higlight" title="TODO Higlight Extension" />
+<em>Note to self, by TODO highlight</em></p>
+
+<p>You can find all of these in the Extensions Marketplace in VSCode.</p>
+
+<p>Next I’ll do one for extensions that provide extendend functionality.</p>
+:ET

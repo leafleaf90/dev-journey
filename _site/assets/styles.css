@@ -7,6 +7,10 @@ html {
     Helvetica, Arial, sans-serif;
 }
 
+body {
+  min-height: 100vh;
+}
+
 header {
   min-height: 400px;
   background-color: black;
@@ -203,6 +207,14 @@ footer {
   justify-content: flex-end;
   padding-right: 20px;
   border-top: 0.5px white solid;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+footer p {
+  margin-right: 2rem;
 }
 
 .blog-link:hover {
@@ -220,7 +232,19 @@ footer {
   text-decoration: none;
   color: white;
   margin-left: 1rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
 }
 
 img + em {
