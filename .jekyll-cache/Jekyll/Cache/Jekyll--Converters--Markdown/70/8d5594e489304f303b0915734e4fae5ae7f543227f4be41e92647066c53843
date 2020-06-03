@@ -1,0 +1,14 @@
+I"ó<h2 id="how-to">How to</h2>
+
+<p>One issue with static websites is that you generally want at least some functionality that requires some server-side code. Site search or submission forms are two examples. If you host with Netlify they can take care of the latter for you. The free plan only allows for 100 submissions per month. For $19/month you get 1,000 submissions. As you can see, this solution is really only suitable for smaller websites, not expecting huge amounts of traffic.</p>
+
+<p>I added a contact form to this Jekyll blog in a matter of minutes. You can follow the instructions on Netlifyâ€™s own blog post on this here. In short, here is what I did:</p>
+
+<ol>
+  <li>In your forms opening tag, add <em>netlify</em>:
+<img src="/assets/post-media/2020-06-03/form-1.png" alt="Form opening tag" title="Form opening tag" /></li>
+  <li>Option, add spam protection with a hidden field that bots might fill out and thereby be exposed:
+<img src="/assets/post-media/2020-06-03/form-2.png" alt="Form spam protection" title="Form spam protection" /></li>
+  <li>Check incoming form submissions in Netlify. You can also set email notifications to let you know when you have new submissions.<a href="https://amzn.to/3c3bSdw" target="\_blank">Nixplay 2k</a></li>
+</ol>
+:ET

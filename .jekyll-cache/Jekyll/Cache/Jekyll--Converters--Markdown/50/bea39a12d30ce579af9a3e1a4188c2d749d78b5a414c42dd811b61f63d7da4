@@ -1,0 +1,22 @@
+I"�<h2 id="an-easy-solution-to-a-common-problem">An easy solution to a common problem</h2>
+
+<p>Even on a static websites you generally some functionality that requires server-side code. Search or submission forms are two examples. If you host with Netlify they can take care of the latter for you. This is no doubt the fastest way if you’re already on Netlify and it doesn’t require any JavaScript.</p>
+
+<h2 id="downsides---limited-free-tier">Downsides - limited free tier</h2>
+
+<p>The free plan only allows for 100 submissions per month. For $19/month you get 1,000 submissions. As you can see, this solution is really only suitable for smaller websites, not expecting huge amounts of traffic.</p>
+
+<h2 id="how-to">How-to</h2>
+
+<p>I added a contact form to this Jekyll blog in a matter of minutes. You can follow the instructions on Netlify’s own blog post on this <a href="https://www.netlify.com/blog/2017/09/19/form-handling-with-the-jamstack-and-netlify/" target="\_blank">here</a>. In short, here is what I did:</p>
+
+<ol>
+  <li>In your forms opening tag, add <em>netlify</em>:
+<img src="/assets/post-media/2020-06-03/form-1.png" alt="Form opening tag" title="Form opening tag" /></li>
+  <li>Option, add spam protection with a hidden field (what’s called a honeypot) that bots might fill out and thereby be exposed:
+<img src="/assets/post-media/2020-06-03/form-2.png" alt="Form spam protection" title="Form spam protection" /></li>
+  <li>Check incoming form submissions in Netlify. You can also set email notifications to let you know when you have new submissions.</li>
+</ol>
+
+<p>And that’s it! Netlify will recognize this form at build time, due to the added “netlify” in the opening form tag.</p>
+:ET
