@@ -1,15 +1,14 @@
-@import url(//db.onlinewebfonts.com/c/0c453315c27507762e6b9536cfea76a6?family=Frutiger);
-
 html {
-  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans",
-    "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed",
-    "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue",
-    Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 body {
   min-height: 100vh;
   padding-bottom: 50px;
+}
+
+p {
+  line-height: 150%;
 }
 
 header {
@@ -96,6 +95,10 @@ h2,
 .post .content img {
   border: 1px solid black;
   width: 100%;
+}
+
+.half-image {
+  width: 50% !important;
 }
 
 .grid-wrapper:after {
