@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The Slow Journey to Full-stack</title>
-    <link rel="apple-touch-icon" sizes="180x180"
-    href=/assets/favicon/apple-touch-icon.png> <link
-    rel="icon" type="image/png" sizes="32x32"
-    href=/assets/favicon/favicon-32x32.png> <link
-    rel="icon" type="image/png" sizes="16x16"
-    href=/assets/favicon/favicon-16x16.png> <link
-    rel="manifest" href=/assets/favicon/site.webmanifest>
-    <link rel="stylesheet" href=/assets/styles.css />
-    <link rel="stylesheet" href=/assets/normalize.css />
-    
-  </head>
-  <body>
-    <div class="nav-bar">
-      <a href="/">Home</a>
-      <a href="/contact/">Contact</a>
-    </div>
-    <div class="post">
-  <div
-    class="featured-img-container"
-    style="
-      background-image: url('/assets/post-media/2020-06-07/mac.jpg');
-    "
-  >
-    <div class="post-title">
-      <h1>Staying motivated while learning to code</h1>
-      <p>Jun 7, 2020</p>
-    </div>
-  </div>
-
-  <div class="content">
-    <h2 id="when-the-going-gets-tough">When the going gets tough…</h2>
+I"x<h2 id="when-the-going-gets-tough">When the going gets tough…</h2>
 
 <p><em>“When the going gets tough, the tough get going”</em></p>
 
@@ -72,12 +36,4 @@
 <p>Just make sure you know a little bit more today than you did yesterday.</p>
 
 <p>I’ll stop there, before this turns into a complete cliché party. Hopefully some of those speak to you and you can apply them to stay motivated. Thanks for reading.</p>
-
-  </div>
-</div>
-
-    <footer>
-      <p>&copy;Journey-Dev 2020</p>
-    </footer>
-  </body>
-</html>
+:ET
