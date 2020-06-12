@@ -208,7 +208,7 @@ footer {
   color: white;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
   padding-right: 20px;
   border-top: 0.5px white solid;
   position: fixed;
@@ -218,7 +218,8 @@ footer {
 }
 
 footer p {
-  margin-right: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .blog-link:hover {
