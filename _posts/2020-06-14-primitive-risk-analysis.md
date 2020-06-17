@@ -21,7 +21,7 @@ Simplicity, primitivity, discipline.
 
 ### Simplicity in idea
 
-So you have a bold idea. The question is: Should you act on it or not?
+So you have a bold idea. The questions is: Should you act on it?
 
 David says he condenses it down to a simple, beautiful idea. I interpret this as the idea being beautiful exactly because of its simplicity, maybe alluding to the fact that if you can’t explain or picture it in a simple manner it might not be clear enough in your own mind yet.
 
