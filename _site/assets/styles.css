@@ -68,25 +68,33 @@ h2,
   margin-bottom: 30px;
   bottom: 0;
   left: 0;
-  background: white;
-  padding: 5px 100px 5px 25px;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 5px 25px 5px 25px;
   transform: skewX(-25deg);
 }
 
-.post .featured-img-container .post-title h1,
-.post .featured-img-container .post-title p {
+.post .featured-img-container .post-title h1 {
   transform: skewX(25deg);
+  font-size: 1.5em;
+  color: white;
 }
 
+.post .featured-img-container .post-title h1,
+.post .featured-img-container .post-title h3,
 .post .featured-img-container .post-title p {
-  padding-left: 25px;
+  color: white;
+}
+
+.post-title-meta {
+  transform: skewX(25deg);
+  padding-left: 30px;
 }
 
 .post .featured-img-container h1:after {
   height: 3px;
   width: 100%;
   content: "";
-  background-color: black;
+  background-color: white;
   position: absolute;
   bottom: 0;
   right: 0;
@@ -296,5 +304,9 @@ img + em {
 
   .last-post {
     width: 40%;
+  }
+
+  .post .featured-img-container .post-title h1 {
+    font-size: 2em;
   }
 }

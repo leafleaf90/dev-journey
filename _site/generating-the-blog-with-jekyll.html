@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Slow Journey to Full-stack</title>
+    <link rel="apple-touch-icon" sizes="180x180"
+    href=/assets/favicon/apple-touch-icon.png> <link
+    rel="icon" type="image/png" sizes="32x32"
+    href=/assets/favicon/favicon-32x32.png> <link
+    rel="icon" type="image/png" sizes="16x16"
+    href=/assets/favicon/favicon-16x16.png> <link
+    rel="manifest" href=/assets/favicon/site.webmanifest>
+    <link rel="stylesheet" href=/assets/styles.css />
+    <link rel="stylesheet" href=/assets/normalize.css />
+    
+  </head>
+  <body>
+    <div class="nav-bar">
+      <a href="/">Home</a>
+      <a href="/contact/">Contact</a>
+    </div>
+    <div class="post">
+  <div
+    class="featured-img-container"
+    style="
+      background-image: url('/assets/post-media/2020-04-27/kickin-back.jpg');
+    "
+  >
+    <div class="post-title">
+      <h1>Generating the blog with Jekyll</h1>
+      <div class="post-title-meta">
+        <h3>I took my sad excuse of a blog and fed it to Jekyll. It spat this out!</h3>
+        <p>May 20, 2020</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="content">
+    <h2 id="static-site-generator-generated">Static Site Generator-generated!</h2>
+
+<p>We are now up and running with static site generator Jekyll!</p>
+
+<p><img src="\assets\post-media\2020-04-27\jekyll.svg" alt="Jekyll logo" title="Jekyll logo" /></p>
+
+<p>As I mentioned in <a href="/moving-beyond-wordpress.html">yesterday’s post</a>, I wanted to start experimenting with some static website tools. A few hours research today and we’re good (I think). This is what’s been done:</p>
+
+<ul>
+  <li>Decided to try out Jekyll as a static site generator (it has been round for long and the documentation is good)</li>
+  <li>Research</li>
+  <li>Install Ruby (Jekyll is written in Ruby). I’m on Windows so I used the installer package: <a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  <li>With Ruby installed, proceeded to install Jekyll:</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; gem install jekyll
+</code></pre></div></div>
+
+<ul>
+  <li>Created a new Jekyll site:</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; jekyll new C:/my-path
+</code></pre></div></div>
+
+<ul>
+  <li>Followed the <a href="https://jekyllrb.com/tutorials/convert-site-to-jekyll/">official Jekyll guide on converting a site to Jekyll</a></li>
+</ul>
+
+<p>And it seems smooth! I like being able to re-use footer and html head without any hassle, just by using layouts.</p>
+
+  </div>
+</div>
+
+    <footer>
+      <p>
+        &copy;Journey-Dev 2020
+      </p>
+      <a href="https://twitter.com/journeydashdev" target="_blank"
+        ><img
+          style="width: 25px; margin-left: 50px;"
+          src="/assets/images/Twitter_Social_Icon_Circle_White.svg"
+      /></a>
+      <a href="https://www.instagram.com/journeydashdev/" target="_blank"
+        ><img
+          style="
+            width: 25px;
+            margin-left: 25px;
+            background-color: white;
+            border-radius: 50%;
+          "
+          src="/assets/images/instagram_icon.svg"
+      /></a>
+    </footer>
+  </body>
+</html>
