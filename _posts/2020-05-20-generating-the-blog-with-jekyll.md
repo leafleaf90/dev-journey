@@ -3,6 +3,7 @@ title: Generating the blog with Jekyll
 layout: post
 featured-image: /assets/post-media/2020-04-27/kickin-back.jpg
 description: I took my sad excuse of a blog and fed it to Jekyll. It spat this out!
+categories: jekyll coding
 ---
 
 ## Static Site Generator-generated!

@@ -262,6 +262,9 @@ footer p {
 .form-wrapper {
   display: flex;
   justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 50px;
 }
 
 img + em {
@@ -269,6 +272,10 @@ img + em {
 }
 
 @media (min-width: 768px) {
+  .nav-bar a {
+    margin-left: 2rem;
+  }
+
   .grid-wrapper {
     grid-template-rows: repeat(2, minmax(100px, auto));
     gap: 10px;

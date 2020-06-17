@@ -3,7 +3,7 @@ title: "JAMstack forms with Netlify"
 layout: post
 featured-image: /assets/post-media/2020-06-03/coffee-computer.jpg
 description: 1 minute setup for small-scale form handling with Netlify
-category: infrastructure
+categories: infrastructure
 ---
 
 ## An easy solution to a common problem

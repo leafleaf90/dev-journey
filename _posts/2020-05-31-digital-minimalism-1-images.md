@@ -3,7 +3,7 @@ title: "Digital minimalism - Part 1: Images"
 layout: post
 featured-image: /assets/post-media/2020-05-25/minimal.jpg
 description: How I took control of my image library
-category: minimalism
+categories: minimalism
 ---
 
 ## Images everywhere...

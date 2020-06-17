@@ -3,6 +3,7 @@ title: Moving beyond WordPress
 layout: post
 featured-image: /assets/post-media/2020-04-26/coffee-journal.jpg
 description: In the search for something lighter.
+categories: coding
 ---
 
 ## The Starting Point
