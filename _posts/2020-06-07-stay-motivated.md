@@ -3,6 +3,7 @@ title: "Staying motivated while learning to code"
 layout: post
 featured-image: /assets/post-media/2020-06-07/mac.jpg
 description: Tools I use to keep my motivation up
+category: motivation
 ---
 
 ## When the going gets tough...

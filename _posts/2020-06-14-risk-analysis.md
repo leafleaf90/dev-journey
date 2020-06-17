@@ -3,6 +3,7 @@ title: "Primitive Risk Analysis"
 layout: post
 featured-image: /assets/post-media/2020-06-14/risk.jpg
 description: An entrepreneurial scientist’s robust approach
+category: business
 ---
 
 ## The Drive podcast

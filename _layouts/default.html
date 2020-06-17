@@ -14,7 +14,16 @@
     <link rel="stylesheet" href={{ "assets/styles.css" | relative_url }} />
     <link rel="stylesheet" href={{ "assets/normalize.css" | relative_url }} />
     {% if jekyll.environment == 'production' and site.google_analytics %} {%
-    include analytics.html %} {% endif %}
+    include analytics.html %} {% endif %} {% if page.description %}
+    <meta property="og:site_name" content="Journey-Dev" />
+    <meta name="og:description" content="{{ page.description }}" />
+    {% endif %} {% if page.title %}
+    <meta name="og:title" content="{{ page.title }}" />
+    {% endif %} {% if page.featured-image %}
+    <meta name="og:image" content="{{ site.url }}{{ page.featured-image}}" />
+    {% endif %}
+    <meta name="og:url" content="{{ site.url }}{{page.url}}" />
+    <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body>
     <div class="nav-bar">
