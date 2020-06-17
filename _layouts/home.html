@@ -21,25 +21,35 @@ layout: default
 
 <h2 style="text-align: center;">Latest Post</h2>
 {% for post in site.posts limit:1 %}
-<div class="last-post" style="background-image:url({{post.featured-image}});">
-  <div class="blog-post">
-    <a class="blog-title" href="{{ post.url }}">{{ post.title}}</a>
-    <p class="postDate">{{ post.date | date: "%b %-d, %Y" }}</p>
+<div
+  class="latest-blog-post"
+  style="background-image:url({{post.featured-image}})"
+  ;
+>
+  <a class="blog-title" href="{{ post.url }}">{{ post.title}}</a>
+  <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+  <div class="post-info">
     <p>{{post.description}}</p>
     <a href="{{post.url}}" class="blog-link white-link-button">Read More</a>
+    {% endfor %}
   </div>
-  {% endfor %}
 </div>
 
 <div class="older-posts">
   <h2>Older Posts</h2>
   <div class="posts-container">
     {% for post in site.posts offset:1 limit:3 %}
-    <div class="blog-post">
+    <div
+      class="blog-post"
+      style="background-image:url({{post.featured-image}})"
+    >
       <a class="blog-title" href="{{ post.url }}">{{ post.title}}</a>
-      <p class="postDate">{{ post.date | date: "%b %-d, %Y" }}</p>
-      <p>{{post.description}}</p>
-      <a href="{{post.url}}" class="blog-link white-link-button">Read More</a>
+
+      <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+      <div class="post-info">
+        <p>{{post.description}}</p>
+        <a href="{{post.url}}" class="blog-link white-link-button">Read More</a>
+      </div>
     </div>
     {% endfor %}
   </div>
