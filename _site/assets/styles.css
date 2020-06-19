@@ -96,11 +96,9 @@ h3 {
   left: 0;
   background: rgba(0, 0, 0, 0.8);
   padding: 5px 25px 5px 25px;
-  transform: skewX(-25deg);
 }
 
 .post .featured-img-container .post-title h1 {
-  transform: skewX(25deg);
   color: white;
 }
 
@@ -108,11 +106,6 @@ h3 {
 .post .featured-img-container .post-title h3,
 .post .featured-img-container .post-title p {
   color: white;
-}
-
-.post-title-meta {
-  transform: skewX(25deg);
-  padding-left: 3rem;
 }
 
 .post .featured-img-container h1:after {
@@ -170,7 +163,8 @@ h3 {
   font-size: 1.5em;
   text-decoration: none;
   transition: opacity ease-out 200ms;
-  width: 100%;
+  margin-top: 2rem;
+  padding: 1rem 0;
 }
 
 .older-posts .blog-title {
@@ -179,11 +173,6 @@ h3 {
 
 .blog-title:hover {
   opacity: 0.6;
-}
-
-a.blog-title {
-  margin-top: 0;
-  padding: 1rem 0;
 }
 
 .post-date {
@@ -237,7 +226,7 @@ p.post-date:after {
 .latest-blog-post p {
   color: white;
   background-color: rgba(0, 0, 0, 0.7);
-  padding: 5px 10px;
+  padding: 0.5rem 1rem;
 }
 
 .black-link-button {
@@ -323,6 +312,19 @@ img + em {
 }
 
 @media (min-width: 768px) {
+  .post-title-meta {
+    transform: skewX(25deg);
+    padding-left: 3rem;
+  }
+
+  .post .featured-img-container .post-title {
+    transform: skewX(-25deg);
+  }
+
+  .post .featured-img-container .post-title h1 {
+    transform: skewX(25deg);
+  }
+
   .blog-title {
     font-size: 2em;
   }

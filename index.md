@@ -1,4 +1,4 @@
 ---
 layout: home
-title: The Slow Journey to Full-stack
+title: Journey:Dev
 ---
