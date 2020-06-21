@@ -2,6 +2,7 @@
 title: "My Portable Office Setup"
 layout: post
 featured-image: /assets/post-media/2020-06-10/work_station_medium.jpg
+featured-thumbnail: /assets/post-media/2020-06-10/work_station_medium-sm.jpg
 description: Easy to bring, easy to adapt
 categories: productivity minimalism
 ---

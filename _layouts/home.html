@@ -38,10 +38,10 @@ layout: default
 <div class="older-posts">
   <h2>Older Posts</h2>
   <div class="posts-container">
-    {% for post in site.posts offset:1 limit:3 %}
+    {% for post in site.posts offset:1 %}
     <div
       class="blog-post"
-      style="background-image:url({{post.featured-image}})"
+      style="background-image:url({{post.featured-thumbnail}})"
     >
       <a class="blog-title" href="{{ post.url }}">{{ post.title}}</a>
 

@@ -2,6 +2,7 @@
 title: Moving beyond WordPress
 layout: post
 featured-image: /assets/post-media/2020-04-26/coffee-journal.jpg
+featured-thumbnail: /assets/post-media/2020-04-26/coffee-journal-sm.jpg
 description: In the search for something lighter.
 categories: coding
 ---

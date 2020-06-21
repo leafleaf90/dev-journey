@@ -2,6 +2,7 @@
 title: "VSCode Extensions - Part 1: Visuals"
 layout: post
 featured-image: /assets/post-media/2020-05-23/vscode.jpg
+featured-thumbnail: /assets/post-media/2020-05-23/vscode-sm.jpg
 description: Extensions that enhances VSCode
 categories: productivity
 ---
