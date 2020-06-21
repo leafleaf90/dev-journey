@@ -117,4 +117,6 @@ Once you have all this set up it would be a good time to also encrypt your hard 
 
 Since you now have a clear overview of pictures, and surely have discovered many forgotten memories, why not put some of those on display? A digital photo frame such as [Nixplay 2k](https://amzn.to/3c3bSdw){:target="\_blank"} does the job, as it can conncet to Google Photos. Create one curated album that consists of your absolute favorites from all the other albums.
 
-Next I'll discuss how I manage my passwords for less mess and confusion and more efficiency.
+In the [next part]({% post_url 2020-06-17-digital-minimalism-2-desktop %}) of the digital minimalism series I discuss how I force myself to keep the desktop and browser organised.
+
+For the essential handbook on digital minimalism, check out [Digital Minimalism](https://www.amazon.com/gp/product/0525542876/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525542876&linkCode=as2&tag=journeydev-20&linkId=bd8922782c77a116e9ca906e3c4b92e0){:target="\_blank"} by Cal Newport.
