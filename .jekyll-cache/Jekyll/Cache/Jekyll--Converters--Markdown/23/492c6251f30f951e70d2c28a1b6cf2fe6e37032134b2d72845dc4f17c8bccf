@@ -1,0 +1,14 @@
+I"�<h2 id="the-starting-point">The Starting Point</h2>
+
+<p>I have lots of websites running WordPress installations with some theme/sitebuilder, usually Divi with Slider Revolution for some added flair. Divi is good for clients that do not want to deal with markdown and have to update content several times per month or even daily. But performance-wise the site gets bogged down with all the extra fluff and slows down the user experience, both for visitors but also in the admin area. Also, for many clients it doesn’t make sense to run a website with a database. A static website, consisting only of HTML, CSS and some JavaScript is often enough and brings huge performance advantages.</p>
+
+<h2 id="options">Options</h2>
+
+<p>Right now I’m writing this straight into my index.html in VS Code.</p>
+
+<p><img src="/assets/post-media/2020-04-26/html-edit.png" alt="VS Code editor" title="VS Code editor" /></p>
+
+<p>I’m considering a headless CMS such as
+<a href="https://ghost.org/">Ghost</a> and some static site generator magic
+such as <a href="https://www.11ty.dev/">11ty</a> for the blog going forward. Gatsby from the React side seems easy to work with as well.</p>
+:ET
