@@ -44,7 +44,7 @@ The book teaches you to interpret the situations you encounter, and understand t
 
 <img class="half-image" src="/assets/post-media/2020-06-21/warofart.jpg"/>
 
-An in-depth analysis of procrastination, it’s tragic consequences and how to defeat it. Anyone that has ever undertaken a creative or otherwise demanding task or project will be able to identify.
+An in-depth analysis of procrastination, its tragic consequences and how to defeat it. Anyone that has ever undertaken a creative or otherwise demanding task or project will be able to identify.
 
 The book offers a novel way to handle fear. Go after it! It shows you what you must do.
 
