@@ -307,6 +307,10 @@ footer p {
   padding-top: 50px;
 }
 
+.red-text {
+  color: red;
+}
+
 img + em {
   display: block;
 }
