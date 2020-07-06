@@ -311,6 +311,12 @@ footer p {
   color: red;
 }
 
+.bg-black {
+  background-color: black;
+  color: white;
+  padding: 0.4rem;
+}
+
 img + em {
   display: block;
 }

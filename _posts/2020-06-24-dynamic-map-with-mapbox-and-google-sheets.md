@@ -4,6 +4,7 @@ layout: post
 featured-image: /assets/post-media/2020-06-24/map.jpg
 featured-thumbnail: /assets/post-media/2020-06-24/map-sm.jpg
 description: Easy way to use Google Sheets data to render a map, utilizing a Lambda function to cache data
+categories: programming
 ---
 
 ## Mapbox possibilities
