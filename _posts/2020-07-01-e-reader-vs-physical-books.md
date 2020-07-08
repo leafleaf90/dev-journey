@@ -2,7 +2,7 @@
 title: "E-reader or physical books?"
 layout: post
 featured-image: /assets/post-media/2020-07-01/ereader.jpg
-thumbnail-image: /assets/post-media/2020-07-01/ereader-sm.jpg
+featured-thumbnail: /assets/post-media/2020-07-01/ereader-sm.jpg
 description: Benefits and drawbacks of e-readers—and getting the best of both worlds
 categories: books
 ---
@@ -54,6 +54,6 @@ As our attention span shortens, the ease with which you can jump from book to bo
 - Set a hard limit on how many books you allow on your e-reader at one time. 5 seems reasonable. A few more for a longer trip.
 - Get physical books if you suspect you’ll want to jump back and forward between sections or use it as a reference (example of a book that works best in physical form: [Ray Dalio’s Principles](https://www.amazon.com/gp/product/1501124021/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501124021&linkCode=as2&tag=journeydev-20&linkId=6948d692da83ca41e07adcb10f21818c){:target="\_blank"}).
 - Keep the books you want to read in a list on a service such as Goodreads rather than stored on your e-reader, as it becomes too tempting to move on to the latest and greatest.
-- Support your local bookstore and get secondhand books whenever you find something that’s on your reading list.
+- Support your local bookstore and get secondhand books whenever you find something that's on your reading list.
 
 For recommendations on what to load your e-reader with, check out my post on [books for productivity]({% post_url 2020-06-21-3-books-for-productivity %})
