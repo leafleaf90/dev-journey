@@ -15,7 +15,7 @@ But let’s put the cynicism aside for a minute. Meditation comes up again and a
 
 ## The Scientific Evidence
 
-A team of Harvard researchers [has found](https://scholar.harvard.edu/sara_lazar/publications){:target="\_blank"} found changes in brain chemistry after as little as 8 weeks of meditation practice. The changes include strengthening in areas that are involved in stress-reduction, empathy, memory and general cognition.
+A team of Harvard researchers [has found](https://scholar.harvard.edu/sara_lazar/publications){:target="\_blank"} changes in brain chemistry after as little as 8 weeks of meditation practice. The changes include strengthening in areas that are involved in stress-reduction, empathy, memory and general cognition.
 
 ## Inspiration and the last push
 
